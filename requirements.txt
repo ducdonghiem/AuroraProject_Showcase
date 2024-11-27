@@ -1,0 +1,7 @@
+beautifulsoup4
+flask
+Flask-Cors
+requests
+flask_caching
+redis
+python-dotenv
