@@ -24,3 +24,7 @@ This website is still under development with more features and improvements to c
 ### Repo
 
 [Public repository](https://github.com/ducdonghiem/AuroraProject_Showcase) for this website.
+
+### For robobison project showcase
+
+Video presentation and project description can be found [here](https://drive.google.com/drive/folders/1sF3IGaa-7E9NDiv76rmogJyMl-Xq3OSS).
