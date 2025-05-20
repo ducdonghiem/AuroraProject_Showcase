@@ -2,8 +2,7 @@
 
 This website helps UofM students plan their class schedules easily before registration. It was first released a year ago on [reddit](https://www.reddit.com/r/umanitoba/comments/1dn3ls9/this_website_helps_you_plan_your_class_schedules/).
 
-![Demo](assets\aurorascheduler_guide.gif)
-
+![Demo](assets/aurorascheduler_guide.gif)
 
 It takes in user input, which are the courses they want to take in a semester. Then, using real-time data scrapped from Aurora, it shows all possible scheduling options for the user's registration (no class overlaps). It also recommends the best option with the fewest class days and minimal time gaps between classes. 
 
